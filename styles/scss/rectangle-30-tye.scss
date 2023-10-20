@@ -1,0 +1,56 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 23.5rem;
+}.rectangle-30-Wpx {
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 2rem;
+  align-items: center;
+  display: flex;
+  border: dashed 0.1rem #9747ff;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-direction: column;
+
+  .property-1default-GZE {
+    margin-bottom: 2rem;
+    width: 100%;
+    cursor: pointer;
+    flex-shrink: 0;
+
+    .rectangle-30-1Wp {
+      width: 19.5rem;
+      height: 18.3rem;
+      object-fit: cover;
+      vertical-align: top;
+      border-radius: 1.5rem;
+    }
+  }
+  .property-1variant2-XVA {
+    width: 100%;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.6999999881);
+    flex-shrink: 0;
+
+    .rectangle-30-6HN {
+      width: 19.5rem;
+      height: 18.3rem;
+      object-fit: cover;
+      vertical-align: top;
+      border-radius: 1.5rem;
+    }
+  }
+}

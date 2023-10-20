@@ -1,0 +1,1002 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-u84 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-u84 .auto-group-pxpu-qnQ {
+  box-sizing: border-box;
+  padding: 1.3rem 12.1rem 1.5rem 28.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #54a0ff;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-pxpu-qnQ .logo-Mkk {
+  margin: 0.3rem 56.5rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(35, 31, 32, 0.8399999738);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-pxpu-qnQ .beranda-4fA {
+  margin: 0rem 4.1rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-pxpu-qnQ .harga-ZM2 {
+  margin: 0rem 3.5rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-pxpu-qnQ .auto-group-kqct-gwS {
+  margin: 0rem 21rem 0.2rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.4rem;
+  width: 45.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: black;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(217, 217, 217, 0.8399999738);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-pxpu-qnQ .ellipse-4-M1z {
+  margin-bottom: 0.1rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-bg-psA.png');
+  border-radius: 1.8rem;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn {
+  width: 100%;
+  height: 180.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-cjza-avL {
+  width: 112.7rem;
+  height: 38.3037rem;
+  position: absolute;
+  left: 40.7rem;
+  top: 8.9rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-cjza-avL .rectangle-3-hzx {
+  width: 107.5rem;
+  height: 38.3037rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-cjza-avL .ellipse-13-pJt {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 16.8rem;
+  background-color: #d9d9d9;
+  border-radius: 2.4rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-cjza-avL .item--ifA {
+  width: 2.8rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 15.8rem;
+  font-size: 4.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-cjza-avL .ellipse-14-axG {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 107.9rem;
+  top: 16.8rem;
+  background-color: #d9d9d9;
+  border-radius: 2.4rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-cjza-avL .item--WL8 {
+  width: 2.7rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 108.9rem;
+  top: 15.8rem;
+  font-size: 4.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-u84 .auto-group-h1vj-emn .games-ce4 {
+  width: 8.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 43.2rem;
+  top: 56.3rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.8399999738);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-u84 .auto-group-h1vj-emn .more-information-vek {
+  width: 21.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 41.0rem;
+  top: 174rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.8399999738);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-u84 .auto-group-h1vj-emn .rectangle-5-EfS {
+  width: 8.6rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 43.2rem;
+  top: 60.2rem;
+  background-color: #54a0ff;
+  border-radius: 3rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .rectangle-23-m9a {
+  width: 8.6rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 41.0rem;
+  top: 177.9rem;
+  background-color: #54a0ff;
+  border-radius: 3rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-uhxv-fkk {
+  width: 101.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 83.2rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-uhxv-fkk .league-of-legend-zo2 {
+  margin-right: 11.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-uhxv-fkk .free-fire-wCU {
+  margin-right: 13.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-uhxv-fkk .cod-mobile-fuA {
+  margin-right: 11.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-uhxv-fkk .lot-new-era-nTz {
+  margin-right: 12.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-uhxv-fkk .stumbleguys-jPE {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-9wdn-Gtx {
+  width: 94.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 51.9rem;
+  top: 108.9rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-9wdn-Gtx .sky-kp8 {
+  margin-right: 15.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-9wdn-Gtx .ragnarok-x-Hp4 {
+  margin-right: 13.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-9wdn-Gtx .ace-racer-EUQ {
+  margin-right: 14.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-9wdn-Gtx .valorant-yRz {
+  margin-right: 14.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-9wdn-Gtx .be-the-king-iPa {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-swmi-Tc4 {
+  width: 98.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 47.5rem;
+  top: 134.3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-swmi-Tc4 .pubg-mobile-bTN {
+  margin-right: 12rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-swmi-Tc4 .lords-mobile-vEk {
+  margin-right: 10.2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-swmi-Tc4 .lifeafter-credits-r8Q {
+  margin-right: 10rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-swmi-Tc4 .mobile-legends-bLt {
+  margin-right: 10rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-swmi-Tc4 .marvel-snap-YG8 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qeel-HUc {
+  width: 58.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 67.4rem;
+  top: 159.8rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qeel-HUc .marvel-super-war-cmn {
+  margin-right: 10.3rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qeel-HUc .supersus-MzG {
+  margin-right: 11.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qeel-HUc .honkai-star-raill-VKn {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 {
+  width: 107.4rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 43.6rem;
+  top: 63.2rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-4-9v8 {
+  margin: 0.3rem 2.3rem 0.2rem 0rem;
+  height: calc(100% - 0.5rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-4-9v8 .rectangle-4-f7n {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-28-zfr {
+  margin: 0.5rem 2.4rem 0rem 0rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-28-zfr .rectangle-28-Ky2 {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-29-DHi {
+  margin: 0.5rem 2.4rem 0rem 0rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-29-DHi .rectangle-29-Mui {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-30-W1v {
+  margin: 0rem 2.8rem 0.5rem 0rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-30-W1v .rectangle-30-rba {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-30-zxg {
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-2vde-dB6 .rectangle-30-zxg .rectangle-30-Zkt {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U {
+  width: 107.6rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 43.6rem;
+  top: 89.4rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-30-o9S {
+  margin-right: 2.3rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-30-o9S .rectangle-30-x2L {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-30-HqJ {
+  margin-right: 2.3rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-30-HqJ .rectangle-30-TDz {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-30-ZH2 {
+  margin-right: 2.5rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-30-ZH2 .rectangle-30-KX6 {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-30-4zU {
+  margin-right: 3rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-30-4zU .rectangle-30-3CC {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-31-bUc {
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-27lk-t2U .rectangle-31-bUc .rectangle-31-Anc {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe {
+  width: 107.6rem;
+  height: 18.4rem;
+  position: absolute;
+  left: 43.6rem;
+  top: 114.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-q84 {
+  margin: 0rem 2.3rem 0.1rem 0rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-q84 .rectangle-30-yzx {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-ixY {
+  margin: 0.1rem 2.4rem 0rem 0rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-ixY .rectangle-30-sqS {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-dJp {
+  margin: 0rem 2.3rem 0.1rem 0rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-dJp .rectangle-30-LU8 {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-4f2 {
+  margin: 0rem 3.1rem 0.1rem 0rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-4f2 .rectangle-30-Qyn {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-Me8 {
+  margin-bottom: 0.1rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-rjwy-hXe .rectangle-30-Me8 .rectangle-30-7tC {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qbmr-r56 {
+  width: 63.5rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 65.2rem;
+  top: 140.3rem;
+  display: flex;
+  column-gap: 2.5rem;
+  align-items: center;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qbmr-r56 .rectangle-30-yfW {
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qbmr-r56 .rectangle-30-yfW .rectangle-30-Lkx {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qbmr-r56 .rectangle-30-HgC {
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qbmr-r56 .rectangle-30-HgC .rectangle-30-G8p {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qbmr-r56 .rectangle-30-ouS {
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-h1vj-emn .auto-group-qbmr-r56 .rectangle-30-ouS .rectangle-30-Yc8 {
+  width: 19.5rem;
+  height: 18.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-u84 .auto-group-y4ug-HJp {
+  width: 193.5rem;
+  height: 67.2rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/txture-1-bg.png');
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .payment-d7n {
+  width: 11.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 39.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.8399999738);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-u84 .auto-group-y4ug-HJp .logo-Xix {
+  width: 6.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 43.2rem;
+  top: 7.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(35, 31, 32, 0.8399999738);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-u84 .auto-group-y4ug-HJp .rectangle-27-FQ4 {
+  width: 8.6rem;
+  height: 0.8rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 43.7rem;
+  background-color: #54a0ff;
+  border-radius: 3rem;
+}
+.desktop-u84 .auto-group-y4ug-HJp .lorem-ipsum-is-sample-or-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrysstandard-dumy-text-ever-since-the-1500s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-it-has-not-only-survived-5-centuries-but-has-also-transitioned-to-electronic-typesetting-without-any-changes-it-began-to-be-popularized-in-1960-with-the-launch-of-letraset-sheets-which-used-sentences-from-lorem-ipsum-and-with-the-advent-of-desktop-publishing-software-such-as-aldus-pagemaker-also-had-a-lorem-ipsum-version-mdJ {
+  width: 80rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 11.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-vbsq-Scx {
+  width: 24.1rem;
+  height: 2.4814rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 26.1rem;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-vbsq-Scx .icon-email-Mjv {
+  width: 2.6rem;
+  height: 2.4814rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-vbsq-Scx .muklisggbetshopgmailcom-V5S {
+  width: 21.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-4cxi-NQ8 {
+  width: 37.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 33.6rem;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-4cxi-NQ8 .icon-clock-76p {
+  width: 2.5rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-4cxi-NQ8 .jam-hindari-transaksi-di-jam-00-00-s-d-00-30-424 {
+  width: 35rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-ftrc-FsE {
+  width: 15rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 30rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-ftrc-FsE .icon-phone-call-zZv {
+  margin-right: 0.1rem;
+  width: 2.2rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-ftrc-FsE .item-0826-6788-9000-Xpk {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-jwzz-fAG {
+  box-sizing: border-box;
+  padding-right: 10.6rem;
+  width: 41.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 43.2rem;
+  top: 47.4rem;
+  display: flex;
+  column-gap: 1.1rem;
+  align-items: flex-start;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-jwzz-fAG .qrisfooter-mUC {
+  width: 9.5rem;
+  height: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-jwzz-fAG .qrisfooter-Vuz {
+  width: 9.5rem;
+  height: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-jwzz-fAG .qrisfooter-e2C {
+  margin-top: 0.1rem;
+  width: 9.5rem;
+  height: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-3dbv-B28 {
+  width: 32.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 43.2rem;
+  top: 53.3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-3dbv-B28 .auto-group-swmw-uD2 {
+  margin: 0rem 0.6rem 0.1rem 0rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-3dbv-B28 .cek-status-pembayaran-Rx4 {
+  margin-right: 0.7rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-3dbv-B28 .auto-group-9s6g-8ba {
+  margin: 0rem 0.6rem 0.1rem 0rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-3dbv-B28 .login-FAQ {
+  margin-right: 1.1rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-3dbv-B28 .auto-group-xrng-zNt {
+  margin: 0rem 0.6rem 0.1rem 0rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-u84 .auto-group-y4ug-HJp .auto-group-3dbv-B28 .register-Hsn {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* CSS */
+.rectangle-4-f7n,
+.rectangle-28-Ky2,
+.rectangle-29-Mui,
+.rectangle-30-rba,
+.rectangle-30-Zkt,
+.rectangle-30-x2L,
+.rectangle-30-TDz,
+.rectangle-30-KX6,
+.rectangle-30-3CC,
+.rectangle-31-Anc,
+.rectangle-30-yzx,
+.rectangle-30-sqS,
+.rectangle-30-LU8,
+.rectangle-30-Qyn,
+.rectangle-30-7tC,
+.rectangle-30-Lkx,
+.rectangle-30-G8p,
+.rectangle-30-Yc8 {
+  transition: transform 0.3s; /* animasi berlangsung selama 0.3 detik */
+}
+
+/* Menambahkan animasi zoom saat gambar dihover */
+.rectangle-4-f7n:hover,
+.rectangle-28-Ky2:hover,
+.rectangle-29-Mui:hover,
+.rectangle-30-rba:hover,
+.rectangle-30-Zkt:hover,
+.rectangle-30-x2L:hover,
+.rectangle-30-TDz:hover,
+.rectangle-30-KX6:hover,
+.rectangle-30-3CC:hover,
+.rectangle-31-Anc:hover,
+.rectangle-30-yzx:hover,
+.rectangle-30-sqS:hover,
+.rectangle-30-LU8:hover,
+.rectangle-30-Qyn:hover,
+.rectangle-30-7tC:hover,
+.rectangle-30-Lkx:hover,
+.rectangle-30-G8p:hover,
+.rectangle-30-Yc8:hover {
+  transform: scale(1.1); /* memperbesar gambar sebesar 10% saat dihover */
+}
+
+.auto-group-pxpu-qnQ {
+  background-color: #007bff; /* Atur warna latar belakang navbar menjadi biru */
+  position: fixed; /* Menggunakan fixed agar navbar tetap di tempat saat di-scroll */
+  width: 100%;
+  top: 0;
+  left: 0; /* Mengatur posisi kiri ke 0 untuk membuat bagian kiri penuh */
+  z-index: 1000; /* Atur z-index agar navbar muncul di atas konten */
+  transition: background-color 0.3s, opacity 0.3s; /* Animasi selama 0.3 detik */
+}
+
+.auto-group-pxpu-qnQ.scrolled {
+  background-color: #007bff; /* Atur warna latar belakang navbar menjadi biru saat di-scroll */
+  opacity: 0.9; /* Mengurangi opacity saat di-scroll */
+}
+
+/* Padding atau margin untuk elemen-elemen di bawah navbar agar tidak tertutup */
+/* Misalnya, jika elemen lain memiliki class .content, Anda bisa menambahkan padding-top: 60px; */
+.content {
+  padding-top: 60px; /* Sesuaikan nilai ini sesuai dengan tinggi navbar Anda */
+}
+
+.auto-group-vbsq-Scx img,
+.auto-group-4cxi-NQ8 img,
+.auto-group-ftrc-FsE img {
+  margin-right: 10px; /* Menambahkan margin kanan 10px antara gambar dan teks */
+}
+
+.auto-group-vbsq-Scx p,
+.auto-group-4cxi-NQ8 p,
+.auto-group-ftrc-FsE p {
+  margin-left: 10px; /* Menambahkan margin kiri 10px antara gambar dan teks */
+}
+
+ .beranda-4fA {
+    text-decoration: none;
+
+  }
+
+  .rectangle-3-hzx {
+    /* Gaya persegi panjang (rectangle) */
+    width: 200px; /* Sesuaikan lebar sesuai kebutuhan */
+    height: 100px; /* Sesuaikan tinggi sesuai kebutuhan */
+    background: rgba(240, 240, 240, 0.96); /* Warna latar belakang */
+    /* Menambahkan drop shadow */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Mengatur drop shadow dengan offset-x, offset-y, blur-radius, dan opacity */
+    /* Gaya lainnya sesuai kebutuhan */
+  }
+  
+  
